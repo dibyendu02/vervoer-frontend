@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="335" height="105" viewBox="0 0 335 105">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M6.667,13.333a6.667,6.667,0,1,1,6.667-6.667A6.674,6.674,0,0,1,6.667,13.333Zm0-12A5.333,5.333,0,1,0,12,6.667,5.339,5.339,0,0,0,6.667,1.334Zm3.333,6H6.667A.668.668,0,0,1,6,6.667V3.333a.667.667,0,0,1,1.334,0V6H10a.667.667,0,0,1,0,1.334Z" transform="translate(0 0)" fill="gray"/>
+    </clipPath>
+  </defs>
+  <g id="Group_9044" data-name="Group 9044" transform="translate(-20 -346)">
+    <rect id="Rectangle_17280" data-name="Rectangle 17280" width="335" height="105" rx="16" transform="translate(20 346)" fill="#fff"/>
+    <g id="Group_9041" data-name="Group 9041">
+      <text id="Café" transform="translate(35 405)" fill="#f99026" font-size="12" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="0" y="0">Café</tspan></text>
+      <text id="Pizza_Sandwich_Burger" data-name="Pizza, Sandwich, Burger" transform="translate(75 405)" fill="gray" font-size="12" font-family="Avenir-Book, Avenir"><tspan x="0" y="0">Pizza, Sandwich, Burger</tspan></text>
+      <g id="Group_9028" data-name="Group 9028" transform="translate(-124 -296)">
+        <g id="Group_8810" data-name="Group 8810">
+          <rect id="Rectangle_2801" data-name="Rectangle 2801" width="20" height="20" transform="translate(422 687)" fill="none"/>
+          <path id="star_22_" data-name="star (22)" d="M3.251,8.991l-.739,4.538a.438.438,0,0,0,.643.454L7,11.855l3.844,2.128a.438.438,0,0,0,.643-.454l-.739-4.538,3.127-3.21a.438.438,0,0,0-.247-.739l-4.3-.658L7.4.269a.455.455,0,0,0-.792,0L4.675,4.384l-4.3.658a.438.438,0,0,0-.247.739Z" transform="translate(425 689.961)" fill="#f99026"/>
+        </g>
+        <text id="_1-4_min" data-name="1-4 min" transform="translate(447 701)" font-size="12" font-family="Avenir-Book, Avenir"><tspan x="0" y="0">4.2</tspan></text>
+      </g>
+    </g>
+    <g id="Group_9042" data-name="Group 9042">
+      <text id="Café_de_Noir" data-name="Café de Noir" transform="translate(35 379)" font-size="18" font-family="Avenir-Heavy, Avenir" font-weight="800"><tspan x="0" y="0">Café De Noir</tspan></text>
+      <g id="veg" transform="translate(6 74)">
+        <g id="Rectangle_2597" data-name="Rectangle 2597" transform="translate(318 292)" fill="none" stroke="#2a9239" stroke-width="1">
+          <rect width="16" height="16" stroke="none"/>
+          <rect x="0.5" y="0.5" width="15" height="15" fill="none"/>
+        </g>
+        <circle id="Ellipse_595" data-name="Ellipse 595" cx="5" cy="5" r="5" transform="translate(321 295)" fill="#2a9239"/>
+      </g>
+    </g>
+    <g id="Group_9043" data-name="Group 9043" transform="translate(0 1)">
+      <g id="Group_9027" data-name="Group 9027" transform="translate(-180 -317)">
+        <text id="_1-4_min-2" data-name="1-4 min" transform="translate(463 746)" fill="gray" font-size="12" font-family="Avenir-Book, Avenir"><tspan x="0" y="0">2 min walk</tspan></text>
+        <g id="_22_Icons_Line_Right_arrow_Copy_4" data-name="22) Icons/Line/Right arrow Copy 4" transform="translate(438 732)">
+          <g id="Group_53" data-name="Group 53" transform="translate(3.333 3.333)">
+            <path id="Mask-2" data-name="Mask" d="M6.667,13.333a6.667,6.667,0,1,1,6.667-6.667A6.674,6.674,0,0,1,6.667,13.333Zm0-12A5.333,5.333,0,1,0,12,6.667,5.339,5.339,0,0,0,6.667,1.334Zm3.333,6H6.667A.668.668,0,0,1,6,6.667V3.333a.667.667,0,0,1,1.334,0V6H10a.667.667,0,0,1,0,1.334Z" transform="translate(0 0)" fill="gray"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_6387" data-name="Group 6387" transform="translate(15 -552)">
+        <g id="Group_6311" data-name="Group 6311" transform="translate(-313.385 319.306)">
+          <circle id="Ellipse_573" data-name="Ellipse 573" cx="8" cy="8" r="8" transform="translate(333.385 649.694)" fill="none"/>
+          <g id="google-maps" transform="translate(335.749 650)">
+            <path id="Path_15559" data-name="Path 15559" d="M102.138,138.684l-1.663,2.455-2.459,2.446a18.046,18.046,0,0,1-2.522-3.65l1.325-2.03,2.033-1.961a2.139,2.139,0,0,0,3.177,2.855C102.067,138.763,102.1,138.724,102.138,138.684Z" transform="translate(-94.92 -131.857)" fill="#ecb72b"/>
+            <path id="Path_15560" data-name="Path 15560" d="M207.726,15.016a2.139,2.139,0,0,0-3.171-2.862q-.053.053-.1.108l1.4-2.279,1.9-1.652a5.611,5.611,0,0,1,3.275,2.753l-1.388,2.238Z" transform="translate(-200.698 -8.069)" fill="#5085f7"/>
+            <path id="Path_15561" data-name="Path 15561" d="M81.065,66.266l-3.358,3.991a6.369,6.369,0,0,1-.572-2.489c0-.053,0-.106,0-.159a5.574,5.574,0,0,1,1.306-3.594Z" transform="translate(-77.133 -62.012)" fill="#da2f2a"/>
+            <path id="Path_15562" data-name="Path 15562" d="M121.5,4.254,118.876,2A5.6,5.6,0,0,1,124.859.26Z" transform="translate(-117.57 0)" fill="#4274eb"/>
+            <path id="Path_15563" data-name="Path 15563" d="M184.174,98.89a5.573,5.573,0,0,0-.631-2.583l-7.467,8.881a9.27,9.27,0,0,1,1.946,3.55c.01.044.021.094.033.152a.533.533,0,0,0,1.044,0c.012-.057.023-.108.033-.152.859-3.626,4.938-5.48,5.039-9.688C184.173,99,184.174,98.944,184.174,98.89Z" transform="translate(-173.208 -93.62)" fill="#60a850"/>
+          </g>
+        </g>
+        <text id="_123_Lincon_Street_New_york" data-name="123, Lincon Street, New york" transform="translate(41 981)" fill="gray" font-size="12" font-family="Avenir-Book, Avenir"><tspan x="0" y="0">123, Lincon Street, New York</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

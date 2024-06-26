@@ -1,0 +1,13 @@
+export const HOME = "HomeScreen";
+export const BOTTOM_TABS = "BottomTabs";
+export const EDIT_PROFILE = "EditProfile";
+export const PROFILE = "Profile";
+export const FARE_CARD = "FareCard";
+export const PAYMENT_METHOD = "PaymentMethods";
+export const TIPS_INFO = "TipsInfo";
+export const SETTING = "SettingPage";
+export const CONTACT_US = "ContactUs";
+export const RESET_PASSWORD = "ResetPassword";
+export const LOGIN = "Login";
+export const OTP = "Otp";
+export const NOTIFICATION = "NotificationPage";

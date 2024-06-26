@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="305" height="215" viewBox="0 0 305 215">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="305" height="215" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Repeat_Grid_80" data-name="Repeat Grid 80" clip-path="url(#clip-path)">
+    <g id="Group_9048" data-name="Group 9048" transform="translate(-17 -511)">
+      <rect id="Rectangle_103" data-name="Rectangle 103" width="305" height="46" rx="5" transform="translate(17 511)" fill="#f7f7fa"/>
+      <g id="Group_9049" data-name="Group 9049" transform="translate(0 -3)">
+        <text id="Opcion_1" data-name="Opcion 1" transform="translate(32 541)" font-size="12" font-family="Avenir-Book, Avenir"><tspan x="0" y="0">Option 1</tspan></text>
+        <g id="checkbox2" transform="translate(291 529)">
+          <g id="Rectangle_2581" data-name="Rectangle 2581" fill="none" stroke="gray" stroke-width="1">
+            <rect width="16" height="16" rx="8" stroke="none"/>
+            <rect x="0.5" y="0.5" width="15" height="15" rx="7.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_9048-2" data-name="Group 9048" transform="translate(-17 -455)">
+      <rect id="Rectangle_103-2" data-name="Rectangle 103" width="305" height="46" rx="5" transform="translate(17 511)" fill="#f7f7fa"/>
+      <g id="Group_9049-2" data-name="Group 9049" transform="translate(0 -3)">
+        <text id="Opcion_2" data-name="Opcion 2" transform="translate(32 541)" font-size="12" font-family="Avenir-Book, Avenir"><tspan x="0" y="0">Option 2</tspan></text>
+        <g id="checkbox2-2" data-name="checkbox2" transform="translate(291 529)">
+          <g id="Rectangle_2581-2" data-name="Rectangle 2581" fill="none" stroke="gray" stroke-width="1">
+            <rect width="16" height="16" rx="8" stroke="none"/>
+            <rect x="0.5" y="0.5" width="15" height="15" rx="7.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_9048-3" data-name="Group 9048" transform="translate(-17 -399)">
+      <rect id="Rectangle_103-3" data-name="Rectangle 103" width="305" height="46" rx="5" transform="translate(17 511)" fill="#f7f7fa"/>
+      <g id="Group_9049-3" data-name="Group 9049" transform="translate(0 -3)">
+        <text id="Opcion_3" data-name="Opcion 3" transform="translate(32 541)" font-size="12" font-family="Avenir-Book, Avenir"><tspan x="0" y="0">Option 3</tspan></text>
+        <g id="checkbox2-3" data-name="checkbox2" transform="translate(291 529)">
+          <g id="Rectangle_2581-3" data-name="Rectangle 2581" fill="none" stroke="gray" stroke-width="1">
+            <rect width="16" height="16" rx="8" stroke="none"/>
+            <rect x="0.5" y="0.5" width="15" height="15" rx="7.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_9048-4" data-name="Group 9048" transform="translate(-17 -343)">
+      <rect id="Rectangle_103-4" data-name="Rectangle 103" width="305" height="46" rx="5" transform="translate(17 511)" fill="#f7f7fa"/>
+      <g id="Group_9049-4" data-name="Group 9049" transform="translate(0 -3)">
+        <text id="Opcion_4" data-name="Opcion 4" transform="translate(32 541)" font-size="12" font-family="Avenir-Book, Avenir"><tspan x="0" y="0">Option 4</tspan></text>
+        <g id="checkbox2-4" data-name="checkbox2" transform="translate(291 529)">
+          <g id="Rectangle_2581-4" data-name="Rectangle 2581" fill="none" stroke="gray" stroke-width="1">
+            <rect width="16" height="16" rx="8" stroke="none"/>
+            <rect x="0.5" y="0.5" width="15" height="15" rx="7.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

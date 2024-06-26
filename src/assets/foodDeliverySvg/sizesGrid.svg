@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="295" height="47" viewBox="0 0 295 47">
+  <g id="Group_9047" data-name="Group 9047" transform="translate(-17 -368)">
+    <rect id="Rectangle_114" data-name="Rectangle 114" width="64" height="28" rx="14" transform="translate(17 368)" fill="#5e5e60"/>
+    <g id="Rectangle_115" data-name="Rectangle 115" transform="translate(94 368)" fill="#fff" stroke="#e7e7ef" stroke-width="1">
+      <rect width="64" height="28" rx="14" stroke="none"/>
+      <rect x="0.5" y="0.5" width="63" height="27" rx="13.5" fill="none"/>
+    </g>
+    <g id="Rectangle_116" data-name="Rectangle 116" transform="translate(171 368)" fill="#fff" stroke="#e7e7ef" stroke-width="1">
+      <rect width="64" height="28" rx="14" stroke="none"/>
+      <rect x="0.5" y="0.5" width="63" height="27" rx="13.5" fill="none"/>
+    </g>
+    <g id="Rectangle_117" data-name="Rectangle 117" transform="translate(248 368)" fill="#fff" stroke="#e7e7ef" stroke-width="1">
+      <rect width="64" height="28" rx="14" stroke="none"/>
+      <rect x="0.5" y="0.5" width="63" height="27" rx="13.5" fill="none"/>
+    </g>
+    <text id="_6_inch" data-name="6 inch" transform="translate(49 386)" fill="#fff" font-size="12" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="-16.236" y="0">6 Inch</tspan></text>
+    <text id="_200.00" data-name="$200.00" transform="translate(49 411)" fill="gray" font-size="10" font-family="Avenir-Book, Avenir"><tspan x="-18.07" y="0">$200.00</tspan></text>
+    <text id="_9_inch" data-name="9 inch" transform="translate(126 386)" font-size="12" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="-16.236" y="0">9 Inch</tspan></text>
+    <text id="_220.00" data-name="$220.00" transform="translate(126 411)" fill="gray" font-size="10" font-family="Avenir-Book, Avenir"><tspan x="-18.07" y="0">$220.00</tspan></text>
+    <text id="_12_inch" data-name="12 inch" transform="translate(203 386)" font-size="12" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="-19.572" y="0">12 Inch</tspan></text>
+    <text id="_250.00" data-name="$250.00" transform="translate(203 411)" fill="gray" font-size="10" font-family="Avenir-Book, Avenir"><tspan x="-18.07" y="0">$250.00</tspan></text>
+    <text id="_15_inch" data-name="15 inch" transform="translate(280 386)" font-size="12" font-family="Avenir-Medium, Avenir" font-weight="500"><tspan x="-19.572" y="0">15 Inch</tspan></text>
+    <text id="_300.00" data-name="$300.00" transform="translate(280 411)" fill="gray" font-size="10" font-family="Avenir-Book, Avenir"><tspan x="-18.07" y="0">$300.00</tspan></text>
+  </g>
+</svg>

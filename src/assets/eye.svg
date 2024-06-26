@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="315" height="56.5" viewBox="0 0 315 56.5">
+  <g id="Group_8375" data-name="Group 8375" transform="translate(-20 -152)">
+    <text id="Enter_Password" data-name="Enter Password" transform="translate(20 188)" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Enter Password</tspan></text>
+    <text id="Password" transform="translate(20 163)" fill="gray" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Password</tspan></text>
+    <line id="Line_140" data-name="Line 140" x2="315" transform="translate(20 208)" fill="none" stroke="#c6c6c6" stroke-width="1"/>
+    <g id="eye" transform="translate(301 169)">
+      <rect id="Rectangle_2726" data-name="Rectangle 2726" width="24" height="24" fill="none"/>
+      <g id="view" transform="translate(1.996 5.624)">
+        <g id="Group_7998" data-name="Group 7998" transform="translate(0 0)">
+          <g id="Group_7997" data-name="Group 7997">
+            <path id="Path_16347" data-name="Path 16347" d="M19.88,98.822c-.179-.245-4.437-5.987-9.877-5.987S.306,98.577.127,98.822a.66.66,0,0,0,0,.779c.179.244,4.437,5.987,9.877,5.987s9.7-5.742,9.877-5.987A.659.659,0,0,0,19.88,98.822ZM10,104.268c-4.007,0-7.477-3.811-8.5-5.057,1.026-1.247,4.489-5.056,8.5-5.056s7.476,3.811,8.5,5.057C17.482,100.458,14.019,104.268,10,104.268Z" transform="translate(0 -92.835)" fill="#9d9d9d"/>
+          </g>
+        </g>
+        <g id="Group_8000" data-name="Group 8000" transform="translate(6.046 2.418)">
+          <g id="Group_7999" data-name="Group 7999" transform="translate(0 0)">
+            <path id="Path_16348" data-name="Path 16348" d="M158.68,154.725a3.958,3.958,0,1,0,3.958,3.958A3.962,3.962,0,0,0,158.68,154.725Zm0,6.6a2.638,2.638,0,1,1,2.638-2.638A2.641,2.641,0,0,1,158.68,161.321Z" transform="translate(-154.722 -154.725)" fill="#9d9d9d"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
